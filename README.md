@@ -42,7 +42,7 @@
 ### Home & Public Donor Search
 | Landing Page | Donor Directory & Search |
 | :---: | :---: |
-| ![Home Page](docs_assets/screenshots/01_home.png) | ![Donor Search](docs_assets/screenshots/06_donor_search_results.png) |
+| ![Home Page](docs_assets/screenshots/01_home.png) | ![Donor Search](docs_assets/screenshots/06_donor_search.png) |
 
 ### Donor & Recipient Workflows
 | Donor Dashboard | Create Emergency Blood Request |

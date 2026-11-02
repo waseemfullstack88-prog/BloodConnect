@@ -32,7 +32,7 @@ yarn-error.log
 /docs_assets/screenshots/*
 !/docs_assets/screenshots/01_home.png
 !/docs_assets/screenshots/04_donor_dashboard.png
-!/docs_assets/screenshots/06_donor_search_results.png
+!/docs_assets/screenshots/06_donor_search.png
 !/docs_assets/screenshots/07_request_create.png
 !/docs_assets/screenshots/10_admin_dashboard.png
 !/docs_assets/screenshots/14_admin_reports.png
